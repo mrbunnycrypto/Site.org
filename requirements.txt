@@ -62,7 +62,7 @@ cachetools==4.2.2
 catfish==4.16.4
 cbor==1.0.0
 censys==2.1.8
-certifi==2022.9.24
+certifi==2024.7.4
 cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==3.0.1
@@ -82,7 +82,7 @@ constantly==15.1.0
 contourpy==1.0.7
 crackmapexec==5.4.0
 crypto==1.4.1
-cryptography==38.0.4
+cryptography==43.0.1
 cryptography37==37.0.2
 cssselect==1.2.0
 cvss==2.4
@@ -173,7 +173,7 @@ hupper==1.10.3
 hyperframe==6.0.0
 hyperlink==21.0.0
 icalendar==4.0.3
-idna==3.3
+idna==3.7
 imagesize==1.4.1
 impacket==0.10.0
 importlib-metadata==4.12.0
@@ -397,7 +397,7 @@ rdflib==6.2.0
 redis==4.3.4
 regex==2022.10.31
 repoze.lru==0.7
-requests==2.28.1
+requests==2.32.2
 requests-file==1.5.1
 requests-html==0.10.0
 requests-toolbelt==0.10.1
@@ -463,7 +463,7 @@ tld==0.11.11
 tls-parser==1.2.2
 tomli==2.0.1
 tornado==6.1
-tqdm==4.64.1
+tqdm==4.66.3
 traitlets==5.5.0
 traits==6.3.2
 translationstring==1.4
@@ -481,7 +481,7 @@ unicodedata2==15.0.0
 unicrypto==0.0.9
 Unidecode==1.3.6
 uritemplate==4.1.1
-urllib3==1.26.12
+urllib3==1.26.19
 urwid==2.1.2
 uvicorn==0.17.6
 uvloop==0.17.0
@@ -519,7 +519,7 @@ yara-python==4.2.0
 yarl==1.8.2
 yaswfp==0.9.3
 zc.lockfile==2.0
-zipp==1.0.0
+zipp==3.19.1
 zlib-wrapper==0.1.3
 zope.deprecation==4.4.0
 zope.interface==5.5.2
